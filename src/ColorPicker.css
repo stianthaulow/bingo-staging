@@ -1,0 +1,29 @@
+.color-picker {
+  position: absolute;
+  top: 4em;
+  left: 0;
+}
+
+.color-picker label {
+  display: block;
+  color: white;
+  background-color: #333;
+  border: solid 1px black;
+  margin-bottom: 5px;
+}
+
+section {
+  margin-bottom: 15px;
+}
+
+.dropdown {
+  display: grid;
+  grid-template-columns: 100px 50px;
+  gap: 10px;
+}
+
+.colorbox {
+  width: 25px;
+  height: 25px;
+  border: 1px solid white;
+}
