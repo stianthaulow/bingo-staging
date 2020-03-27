@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bingo-staging/static/css/main.0df97595.chunk.css",
+    "main.css": "/bingo-staging/static/css/main.6725a629.chunk.css",
     "main.js": "/bingo-staging/static/js/main.4ca1c1ba.chunk.js",
     "main.js.map": "/bingo-staging/static/js/main.4ca1c1ba.chunk.js.map",
     "runtime-main.js": "/bingo-staging/static/js/runtime-main.a62a2edb.js",
@@ -8,15 +8,15 @@
     "static/js/2.ac164ab7.chunk.js": "/bingo-staging/static/js/2.ac164ab7.chunk.js",
     "static/js/2.ac164ab7.chunk.js.map": "/bingo-staging/static/js/2.ac164ab7.chunk.js.map",
     "index.html": "/bingo-staging/index.html",
-    "precache-manifest.e469353c7b797b8f51ed71757f24314a.js": "/bingo-staging/precache-manifest.e469353c7b797b8f51ed71757f24314a.js",
+    "precache-manifest.cc841353dd36af3c6825afa90efc8587.js": "/bingo-staging/precache-manifest.cc841353dd36af3c6825afa90efc8587.js",
     "service-worker.js": "/bingo-staging/service-worker.js",
-    "static/css/main.0df97595.chunk.css.map": "/bingo-staging/static/css/main.0df97595.chunk.css.map",
+    "static/css/main.6725a629.chunk.css.map": "/bingo-staging/static/css/main.6725a629.chunk.css.map",
     "static/js/2.ac164ab7.chunk.js.LICENSE.txt": "/bingo-staging/static/js/2.ac164ab7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a62a2edb.js",
     "static/js/2.ac164ab7.chunk.js",
-    "static/css/main.0df97595.chunk.css",
+    "static/css/main.6725a629.chunk.css",
     "static/js/main.4ca1c1ba.chunk.js"
   ]
 }
