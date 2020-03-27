@@ -2,7 +2,7 @@
   "name": "bingo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bingo.thaulow.dev",
+  "homepage": "https://stianthaulow.github.io/bingo-staging",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
